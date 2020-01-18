@@ -5,4 +5,4 @@
 3. Build using `ngx-build-plus`
 4. Using `--single-bundle flag` from `ngx-build-plus` library
 5. Publish the package to npm
-6. Use the search bar component in a react application. Check the usage of the same component in this react application here: <a href="https://github.com/NishuGoel/useAngularElementinReact.git" target="_blank"></a>
+6. Use the search bar component in a react application. Check the usage of the same component in this react application here: [https://github.com/NishuGoel/useAngularElementinReact.git]
